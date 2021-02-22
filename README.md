@@ -5,11 +5,11 @@
 
 # 👩‍💻  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
- - 💯  [ Advantages of a Custom Website vs. a Pre-Built Theme](https://ideabaragency.com/advantages-of-a-custom-website-vs-a-pre-built-theme/)
- - 🔥  [ Cox Enterprises Named ‘Best Place to Work’ for LGBTQ+ Equality](https://ideabaragency.com/cox-enterprises-named-best-place-to-work-for-lgbtq-equality/)
- - 💫  [ Accelerating connections and conversions to more deeply engage the Natural-Minded Consumer](https://ideabaragency.com/accelerating-connections-and-conversions-to-more-deeply-engage-the-natural-minded-consumer/)
- -   [ Ideabar supports patients and their caregivers living with neurocognitive disorders with Alzheimer’s Community Care partnership](https://ideabaragency.com/alzheimers-community-care-partnership/)
- - 🚀  [ Trend Forecasting: The Top Logo Design Trends of 2021](https://ideabaragency.com/trend-forecasting-the-top-logo-design-trends-of-2021/)<!-- BLOG-POST-LIST:END -->
+ - $emojiKey(💯 ,🔥 ,💫 ,🚀 ,🌮 ) [Advantages of a Custom Website vs. a Pre-Built Theme](https://ideabaragency.com/advantages-of-a-custom-website-vs-a-pre-built-theme/)
+ - $emojiKey(💯 ,🔥 ,💫 ,🚀 ,🌮 ) [Cox Enterprises Named ‘Best Place to Work’ for LGBTQ+ Equality](https://ideabaragency.com/cox-enterprises-named-best-place-to-work-for-lgbtq-equality/)
+ - $emojiKey(💯 ,🔥 ,💫 ,🚀 ,🌮 ) [Accelerating connections and conversions to more deeply engage the Natural-Minded Consumer](https://ideabaragency.com/accelerating-connections-and-conversions-to-more-deeply-engage-the-natural-minded-consumer/)
+ - $emojiKey(💯 ,🔥 ,💫 ,🚀 ,🌮 ) [Ideabar supports patients and their caregivers living with neurocognitive disorders with Alzheimer’s Community Care partnership](https://ideabaragency.com/alzheimers-community-care-partnership/)
+ - $emojiKey(💯 ,🔥 ,💫 ,🚀 ,🌮 ) [Trend Forecasting: The Top Logo Design Trends of 2021](https://ideabaragency.com/trend-forecasting-the-top-logo-design-trends-of-2021/)<!-- BLOG-POST-LIST:END -->
 
 # 🔗  Links
 - [Ideabaragency.com](https://ideabaragency.com)
