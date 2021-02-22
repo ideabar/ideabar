@@ -13,4 +13,4 @@
 <!-- BLOG-POST-LIST:END -->
 
 # 🔗  Links
-🌐 [Ideabaragency.com](https://ideabaragency.com)
+- [Ideabaragency.com](https://ideabaragency.com)
