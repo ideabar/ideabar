@@ -12,5 +12,3 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://ideabaragency.com/feed"
-          #item_exec: "post.title = '' + post.title"
-          template: "$emojiKey(💯,🔥,💫,🚀,💭)‏‏‎  [$title]($url) $newline"
