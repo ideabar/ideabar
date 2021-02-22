@@ -13,4 +13,4 @@ jobs:
         with:
           feed_list: "https://ideabaragency.com/feed"
           #item_exec: "post.title = '' + post.title"
-          template: "$emojiKey(💯,🔥,💫,🚀,💭)‏‏‎ &nbsp;&nbsp; [$title]($url) $newline"
+          template: "$emojiKey(💯,🔥,💫,🚀,💭)‏‏‎  [$title]($url) $newline"
