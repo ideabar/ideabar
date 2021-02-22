@@ -12,4 +12,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://ideabaragency.com/feed"
-          template: "$newline - $emojiKey(💯,🔥,💫,,🚀,🌮)  [ $title]($url)"
+          template: "$newline - $emojiKey(💯 ,🔥 ,💫 ,🚀 ,🌮 ) [$title]($url)"
