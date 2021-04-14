@@ -5,11 +5,11 @@
 
 # 👩‍💻  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Arts organizations are poised to rise from chaos of COVID](https://ideabaragency.com/arts-organizations-are-poised-to-rise-from-chaos-of-covid/)
 - [The invaluable impact that the arts have on a functioning society even in a pandemic](https://ideabaragency.com/the-invaluable-impact-that-the-arts-have-on-a-functioning-society-even-in-a-pandemic/)
 - [Ideabar partners with The Atlanta Journal-Constitution to ‘Press On’](https://ideabaragency.com/ajc-presson/)
 - [3 Ways We Take Care of Our Employees So They Bring Their Best Selves to Work](https://ideabaragency.com/three-ways-were-taking-care-of-our-employees-so-they-bring-their-best-selves-to-work/)
 - [Buying Local Food Trends: Consumers are Ripe for the Picking](https://ideabaragency.com/buying-local-food-trends-consumers-are-ripe-for-the-picking/)
-- [Real Estate Marketing: 3 Essential Tips for a Successful Campaign](https://ideabaragency.com/real-estate-marketing-3-essential-tips-for-a-successful-campaign/)
 <!-- BLOG-POST-LIST:END -->
 
 # 🔗  Links
