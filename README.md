@@ -5,7 +5,7 @@
 
 # 👩‍💻  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [The invaluable impact that the arts have on a functioning society even in a pandemic](https://ideabaragency.com/innovation-in-arts-and-culture-is-key-to-reconnect-with-the-world-and-foster-a-growth-mentality/)
+- [The invaluable impact that the arts have on a functioning society even in a pandemic](https://ideabaragency.com/the-invaluable-impact-that-the-arts-have-on-a-functioning-society-even-in-a-pandemic/)
 - [Ideabar partners with The Atlanta Journal-Constitution to ‘Press On’](https://ideabaragency.com/ajc-presson/)
 - [3 Ways We Take Care of Our Employees So They Bring Their Best Selves to Work](https://ideabaragency.com/three-ways-were-taking-care-of-our-employees-so-they-bring-their-best-selves-to-work/)
 - [Buying Local Food Trends: Consumers are Ripe for the Picking](https://ideabaragency.com/buying-local-food-trends-consumers-are-ripe-for-the-picking/)
