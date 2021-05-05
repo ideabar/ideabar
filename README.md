@@ -5,11 +5,11 @@
 
 # 👩‍💻  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The timeless power of archetype](https://ideabaragency.com/the-timeless-power-of-archetype/)
 - [How COVID impacted consumer shopping behavior](https://ideabaragency.com/how-covid-impacted-consumer-shopping-behavior/)
 - [The new era of health supplements](https://ideabaragency.com/the-new-era-of-health-supplements/)
 - [The invaluable impact that the arts have on a functioning society even in a pandemic](https://ideabaragency.com/the-invaluable-impact-that-the-arts-have-on-a-functioning-society-even-in-a-pandemic/)
 - [Ideabar partners with The Atlanta Journal-Constitution to ‘Press On’](https://ideabaragency.com/ajc-presson/)
-- [3 Ways We Take Care of Our Employees So They Bring Their Best Selves to Work](https://ideabaragency.com/three-ways-were-taking-care-of-our-employees-so-they-bring-their-best-selves-to-work/)
 <!-- BLOG-POST-LIST:END -->
 
 # 🔗  Links
