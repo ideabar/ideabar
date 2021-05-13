@@ -5,11 +5,11 @@
 
 # 👩‍💻  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The future of farming: Emerging agro-trends, part I](https://ideabaragency.com/the-future-of-farming-emerging-agro-trends-part-i/)
 - [The timeless power of archetype](https://ideabaragency.com/the-timeless-power-of-archetype/)
 - [How COVID impacted consumer shopping behavior](https://ideabaragency.com/how-covid-impacted-consumer-shopping-behavior/)
 - [The new era of health supplements](https://ideabaragency.com/the-new-era-of-health-supplements/)
 - [The invaluable impact that the arts have on a functioning society even in a pandemic](https://ideabaragency.com/the-invaluable-impact-that-the-arts-have-on-a-functioning-society-even-in-a-pandemic/)
-- [Ideabar partners with The Atlanta Journal-Constitution to ‘Press On’](https://ideabaragency.com/ajc-presson/)
 <!-- BLOG-POST-LIST:END -->
 
 # 🔗  Links
