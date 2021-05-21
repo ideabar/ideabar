@@ -5,11 +5,11 @@
 
 # 👩‍💻  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ideabar wins 1 Addy Award and 4 Communicator Awards](https://ideabaragency.com/ideabar-wins-1-addy-award-and-4-communicator-awards/)
 - [The future of farming: Emerging agro-trends, part I](https://ideabaragency.com/the-future-of-farming-emerging-agro-trends-part-i/)
 - [The timeless power of archetype](https://ideabaragency.com/the-timeless-power-of-archetype/)
 - [How COVID impacted consumer shopping behavior](https://ideabaragency.com/how-covid-impacted-consumer-shopping-behavior/)
 - [The new era of health supplements](https://ideabaragency.com/the-new-era-of-health-supplements/)
-- [The invaluable impact that the arts have on a functioning society even in a pandemic](https://ideabaragency.com/the-invaluable-impact-that-the-arts-have-on-a-functioning-society-even-in-a-pandemic/)
 <!-- BLOG-POST-LIST:END -->
 
 # 🔗  Links
