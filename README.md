@@ -8,7 +8,7 @@
 - [The future of farming: Emerging agricultural trends, Part 2](https://ideabaragency.com/the-future-of-farming-emerging-agricultural-trends-part-2/)
 - [Pyure Organic announces rebrand of plant-based sweetener products](https://ideabaragency.com/pyure-organic-announces-rebrand-of-plant-based-sweetener-products/)
 - [Ideabar wins 1 Addy Award and 4 Communicator Awards](https://ideabaragency.com/ideabar-wins-1-addy-award-and-4-communicator-awards/)
-- [The future of farming: Emerging agro-trends, part I](https://ideabaragency.com/the-future-of-farming-emerging-agro-trends-part-i/)
+- [The future of farming: Emerging agricultural trends, Part 1](https://ideabaragency.com/the-future-of-farming-emerging-agro-trends-part-i/)
 - [The timeless power of archetype](https://ideabaragency.com/the-timeless-power-of-archetype/)
 <!-- BLOG-POST-LIST:END -->
 
