@@ -5,11 +5,11 @@
 
 # 👩‍💻  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [The importance of consumer segmentation](https://ideabaragency.com/the-importance-of-consumer-segmentation/)
-- [The future of farming: Emerging agricultural trends, Part 2](https://ideabaragency.com/the-future-of-farming-emerging-agricultural-trends-part-2/)
-- [Pyure Organic announces rebrand of plant-based sweetener products](https://ideabaragency.com/pyure-organic-announces-rebrand-of-plant-based-sweetener-products/)
-- [Ideabar wins 1 Addy Award and 4 Communicator Awards](https://ideabaragency.com/ideabar-wins-1-addy-award-and-4-communicator-awards/)
-- [The future of farming: Emerging agricultural trends, Part 1](https://ideabaragency.com/the-future-of-farming-emerging-agro-trends-part-i/)
+- [The importance of consumer segmentation](https://ideabaragency.com/news/the-importance-of-consumer-segmentation/)
+- [The future of farming: Emerging agricultural trends, Part 2](https://ideabaragency.com/news/the-future-of-farming-emerging-agricultural-trends-part-2/)
+- [Pyure Organic announces rebrand of plant-based sweetener products](https://ideabaragency.com/news/pyure-organic-announces-rebrand-of-plant-based-sweetener-products/)
+- [Ideabar wins 1 Addy Award and 4 Communicator Awards](https://ideabaragency.com/news/ideabar-wins-1-addy-award-and-4-communicator-awards/)
+- [The future of farming: Emerging agricultural trends, Part 1](https://ideabaragency.com/news/the-future-of-farming-emerging-agro-trends-part-i/)
 <!-- BLOG-POST-LIST:END -->
 
 # 🔗  Links
