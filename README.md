@@ -5,11 +5,11 @@
 
 # 👩‍💻  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Benefits of Becoming a B-Corporation](https://ideabaragency.com/news/the-benefits-of-becoming-a-b-corporation/)
 - [Building an Effective Google Search Engine Marketing Campaign](https://ideabaragency.com/news/building-an-effective-google-search-engine-marketing-campaign/)
 - [Who is Generation Disruption & Why Do They Matter?](https://ideabaragency.com/news/who-is-generation-disruption-why-do-they-matter/)
 - [Revenge Travel: Is It Enough to Bring Tourism Back?](https://ideabaragency.com/news/revenge-travel-is-it-enough-to-bring-tourism-back/)
 - [8 Tips for Working with Social Influencers](https://ideabaragency.com/news/8-tips-for-working-with-social-influencers/)
-- [What the steady rise of OTT advertising means for brands](https://ideabaragency.com/news/what-the-steady-rise-of-ott-advertising-means-for-brands/)
 <!-- BLOG-POST-LIST:END -->
 
 # 🔗  Links
