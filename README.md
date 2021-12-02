@@ -5,11 +5,11 @@
 
 # 👩‍💻  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Enhancing the Health &amp; Wellness E-Commerce Experience](https://ideabaragency.com/news/enhancing-the-health-wellness-e-commerce-experience/)
 - [Steps to a Successful Photoshoot](https://ideabaragency.com/news/steps-to-a-successful-photoshoot/)
 - [StratFest Spotlight 2021: How to Get an Idea to Spread Like a Virus](https://ideabaragency.com/news/stratfest-spotlight-2021-how-to-get-an-idea-to-spread-like-a-virus/)
 - [The Benefits of Becoming a B-Corporation](https://ideabaragency.com/news/the-benefits-of-becoming-a-b-corporation/)
 - [Building an Effective Google Search Engine Marketing Campaign](https://ideabaragency.com/news/building-an-effective-google-search-engine-marketing-campaign/)
-- [Who is Generation Disruption &amp; Why Do They Matter?](https://ideabaragency.com/news/who-is-generation-disruption-why-do-they-matter/)
 <!-- BLOG-POST-LIST:END -->
 
 # 🔗  Links
