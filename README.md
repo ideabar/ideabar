@@ -5,11 +5,11 @@
 
 # 👩‍💻  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [TikTok Ads &amp; Products Under The Microscope](https://ideabaragency.com/news/tiktok-ads-products-under-the-microscope/)
 - [Why Buy Local?](https://ideabaragency.com/news/why-buy-local/)
 - [6 Packaging Design Trends for 2022](https://ideabaragency.com/news/6-packaging-design-trends-for-2022/)
 - [Enhancing the Health &amp; Wellness E-Commerce Experience](https://ideabaragency.com/news/enhancing-the-health-wellness-e-commerce-experience/)
 - [Steps to a Successful Photoshoot](https://ideabaragency.com/news/steps-to-a-successful-photoshoot/)
-- [StratFest Spotlight 2021: How to Get an Idea to Spread Like a Virus](https://ideabaragency.com/news/stratfest-spotlight-2021-how-to-get-an-idea-to-spread-like-a-virus/)
 <!-- BLOG-POST-LIST:END -->
 
 # 🔗  Links
